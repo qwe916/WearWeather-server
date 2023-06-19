@@ -1,0 +1,12 @@
+comment:
+  layout: "reach, diff, flags, files"
+  behavior: default
+  require_changes: false
+  require_base: no
+  require_head: yes
+component_management:
+  individual_components:
+    - component_id: WearWeather-api
+    - component_id: WearWeather-batch
+    - component_id: WearWeather-common
+    - component_id: WearWeather-core
