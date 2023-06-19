@@ -1,0 +1,6 @@
+rootProject.name = 'WearWeather'
+include 'WearWeather-api'
+include 'WearWeather-core'
+include 'WearWeather-common'
+include 'WearWeather-batch'
+
